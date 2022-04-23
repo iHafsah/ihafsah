@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hafsah</h1>
-<h3 align="center">A quick learner</h3>
+<h3 align="center">Intersted in web and mobile development</h3>
 
 - 🌱 I’m currently learning **Web Development**
 
